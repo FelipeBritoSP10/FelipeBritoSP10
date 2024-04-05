@@ -1,8 +1,7 @@
 # Olá, eu sou o [Felipe Brito](https://github.com/seuusuario)!
 
 ## Sobre Mim
-Sou um programador front-end apaixonado por criar experiências incríveis na web. Estou constantemente aprendendo e aprimorando minhas habilidades para desenvolver projetos cada vez melhores.
-Atualmente, trabalho na Arthais Systems, onde busco sempre aprimorar minhas habilidades e contribuir para projetos desafiadores.
+Sou um programador front-end apaixonado por criar experiências incríveis na web. Atualmente, trabalho na [Arthais Systems](https://arthais.com.br), onde busco sempre aprimorar minhas habilidades e contribuir para projetos desafiadores.
 
 ## Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipe.sp.10/)
