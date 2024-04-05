@@ -1,6 +1,4 @@
-
-
-# Olá, eu sou [Felipe Brito](https://github.com/FelipeBritoSP10)! 🚀
+# Olá, eu sou [Felipe Brito] (https://github.com/FelipeBritoSP10)!
 
 ## Sobre Mim
 Sou um programador front-end apaixonado por criar experiências incríveis na web. Estou constantemente aprendendo e aprimorando minhas habilidades para desenvolver projetos cada vez melhores.
@@ -20,5 +18,5 @@ Sou um programador front-end apaixonado por criar experiências incríveis na we
 [![GitHub](https://img.shields.io/badge/GitHub-lightgrey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ## Projetos em Destaque
-- [Projeto Legal 1](https://github.com/seuusuario/projeto-legal-1)
-- [Projeto Legal 2](https://github.com/seuusuario/projeto-legal-2)
+- [Projeto Legal 1](https://pizzaria-brito.vercel.app)
+- [Projeto Legal 2]()
