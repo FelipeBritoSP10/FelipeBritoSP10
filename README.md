@@ -17,6 +17,5 @@ Sou um programador front-end apaixonado por criar experiências incríveis na we
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-green?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-lightgrey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-## Projetos em Destaque
-- [Projeto Legal 1](https://pizzaria-brito.vercel.app)
-- [Projeto Legal 2]()
+## Projeto em Destaque
+- [Melhor projeto](https://pizzaria-brito.vercel.app)
