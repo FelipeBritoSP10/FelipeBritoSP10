@@ -1,4 +1,4 @@
-# Olá, eu sou [Felipe Brito] (https://github.com/FelipeBritoSP10)!
+# Olá, eu sou o [Felipe Brito](https://github.com/seuusuario)!
 
 ## Sobre Mim
 Sou um programador front-end apaixonado por criar experiências incríveis na web. Estou constantemente aprendendo e aprimorando minhas habilidades para desenvolver projetos cada vez melhores.
