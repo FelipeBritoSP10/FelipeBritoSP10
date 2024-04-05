@@ -6,8 +6,8 @@
 Sou um programador front-end apaixonado por criar experiências incríveis na web. Estou constantemente aprendendo e aprimorando minhas habilidades para desenvolver projetos cada vez melhores.
 
 ## Redes Sociais
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario_do_instagram)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/seu_usuario_do_facebook)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipe.sp.10/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005402199216)
 
 
 ## Habilidades
