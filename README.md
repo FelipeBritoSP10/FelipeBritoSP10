@@ -18,4 +18,4 @@ Sou um programador front-end apaixonado por criar experiências incríveis na we
 [![GitHub](https://img.shields.io/badge/GitHub-lightgrey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ## Projeto em Destaque
-- [Melhor projeto](https://pizzaria-brito.vercel.app)
+- [Pizzaria Brito](https://pizzaria-brito.vercel.app)
