@@ -4,7 +4,7 @@
 Sou um programador front-end apaixonado por criar experiências incríveis na web. Atualmente, trabalho na [Arthais Systems](https://arthais.com.br), onde busco sempre aprimorar minhas habilidades e contribuir para projetos desafiadores.
 
 ## Meu Portfólio
-[![Portfólio](https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portifolio-brito.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logoColor=white)](https://portifolio-brito.vercel.app)
 
 ## Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipe.sp.10/)
