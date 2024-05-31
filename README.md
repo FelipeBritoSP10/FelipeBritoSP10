@@ -16,7 +16,9 @@ Sou um programador front-end apaixonado por criar experiências incríveis na we
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
 [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)  
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-green?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
+[![Ionic](https://img.shields.io/badge/Ionic-lightgrey?style=for-the-badge&logo=ionic&logoColor=white)](https://ionicframework.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-lightgrey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Git](https://img.shields.io/badge/Git-lightgrey?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ## Projeto em Destaque
 - [Pizzaria Brito](https://pizzaria-brito.vercel.app)
