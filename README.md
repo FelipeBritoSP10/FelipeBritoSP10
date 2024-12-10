@@ -24,14 +24,13 @@ Além disso, tenho experiência como instrutor, guiando estudantes e profissiona
 [![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ## Minha experiência
-Consultoria de Front-End: Ofereço consultoria para empresas e startups, ajudando a melhorar a performance de sites e apps com técnicas modernas 🖥️💡.
+🖥️ Consultoria de Front-End: Ofereço consultoria para empresas e startups, ajudando a melhorar a performance de sites e apps com técnicas modernas 💡.
 
-Mentoria em Carreira: Auxilio novos desenvolvedores na transição para o mercado de trabalho, orientando sobre práticas de desenvolvimento 💼📈.
+💼 Mentoria em Carreira: Auxilio novos desenvolvedores na transição para o mercado de trabalho, orientando sobre práticas de desenvolvimento 📈.
 
-Aulas e Tutoriais: Dou aulas sobre desenvolvimento web, ensinando HTML, CSS, JavaScript, Bootstrap, React, Tailwind CSS e Ionic 🖥️📚.
+🎓 Aulas e Tutoriais: Dou aulas sobre desenvolvimento web, ensinando HTML, CSS, JavaScript, Bootstrap, React, Tailwind CSS e Ionic 📚.
 
-Gerenciamento de Projetos: Uso metodologias ágeis para coordenar projetos, entregando produtos de alta qualidade em prazos apertados ⏲️🚀.
-
+⏲️ Gerenciamento de Projetos: Uso metodologias ágeis para coordenar projetos, entregando produtos de alta qualidade em prazos apertados 🚀.
 
 
 ## Projeto em Destaque
