@@ -2,6 +2,7 @@
 
 ## Sobre Mim
 Sou um programador front-end apaixonado por criar experiências incríveis na web. Atualmente, trabalho na [Arthais Systems](https://arthais.com.br), onde busco sempre aprimorar minhas habilidades e contribuir para projetos desafiadores.
+
 Além disso, tenho experiência como instrutor, guiando estudantes e profissionais na jornada de aprendizado no desenvolvimento web.
 
 
