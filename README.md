@@ -1,9 +1,9 @@
 # Olá, eu sou o [Felipe Brito](https://github.com/seuusuario)!
 
 ## Sobre Mim
-Sou um programador front-end apaixonado por criar experiências incríveis na web. Atualmente, trabalho na [Arthais Systems](https://arthais.com.br), onde busco sempre aprimorar minhas habilidades e contribuir para projetos desafiadores.
+Sou desenvolvedor front-end com sólida experiência na criação de interfaces responsivas, escaláveis e alinhadas às melhores práticas de usabilidade e desempenho. Atualmente, integro a equipe da Arthais Systems, onde colaboro no desenvolvimento de soluções tecnológicas voltadas à eficiência e inovação.
 
-Além disso, tenho experiência como instrutor, guiando estudantes e profissionais na jornada de aprendizado no desenvolvimento web.
+Atuo também como instrutor na área de desenvolvimento web, contribuindo para a formação técnica de estudantes e profissionais por meio de metodologias práticas e foco em resultados. Mantenho constante atualização nas principais ferramentas e frameworks do ecossistema front-end, visando sempre a excelência na entrega.
 
 
 ## Redes Sociais
