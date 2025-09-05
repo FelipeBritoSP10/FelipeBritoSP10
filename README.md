@@ -9,6 +9,7 @@ Atuo também como instrutor na área de desenvolvimento web, contribuindo para a
 ## Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipe.sp.10/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005402199216)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-brito-09a355285/)
 
 
 ## Habilidades  
