@@ -9,7 +9,7 @@ With a strong results-oriented mindset, I focus on building high-impact digital 
 ## 💻 Technical Expertise
 I have strong professional experience in designing scalable, maintainable, and high-performance applications for both web and mobile. My domain expertise includes:
 
-# Front-End & Mobile Engineering
+# 🎨 Front-End & Mobile Engineering
 - Creation of component-driven interfaces and reusable UI architectures
 
 - Advanced responsive design, accessibility (A11y), and mobile-first development
@@ -18,7 +18,7 @@ I have strong professional experience in designing scalable, maintainable, and h
 
 - Building and maintaining design systems and UI component libraries
 
-# Software Architecture & Engineering Practices
+# 🏗️ Software Architecture & Engineering Practices
 - Modular architecture, SOLID principles, separation of concerns
 
 - Clean Code, code quality, maintainability and long-term scalability
@@ -27,28 +27,28 @@ I have strong professional experience in designing scalable, maintainable, and h
 
 - Architectural planning for new apps and technical evolution of existing ones
 
-# API Integration & Data Flow
+# 🔌 API Integration & Data Flow
 - REST integration, data modeling, and robust error-handling structures
 
 - Authentication strategies: JWT, token flows, session models
 
 - Offline-first approaches, caching, and sync strategies
 
-# Testing, Performance & Optimization
+# 🧪 Testing, Performance & Optimization
 - Unit and component testing with Jest
 
 - Performance optimization, lazy loading, code splitting
 
 - Error monitoring and logging (Sentry, Crashlytics, etc.)
 
-# DevOps, Version Control & Delivery
+# ⚙️ DevOps, Version Control & Delivery
 - GitFlow, repository strategy, branch management
 
 - CI/CD pipelines, automated builds, multi-environment deployment
 
 - Production-ready workflows for both web and mobile apps
 
-# Product Strategy, UX & MVP Development
+# 🧭 Product Strategy, UX & MVP Development
 - MVP planning for web & mobile products
 
 - UX-driven decision-making
@@ -57,11 +57,11 @@ I have strong professional experience in designing scalable, maintainable, and h
 
 - Continuous iteration using feedback loops
 
-## Technologies
+## 🛠️ Technologies
 React JS, React Native, TypeScript, JavaScript (ES6+), Tailwind CSS, SASS/SCSS, Bootstrap, Material UI, Chakra UI, React Native Paper, NativeBase, Zod, Yup, React Hook Form, GraphQL, Supabase, Firebase, Vite, Jest, Git, UI/UX, Mobile First, MVP, with strong knowledge of advanced architectural patterns.
 Additional experience: Node.js, Java, PostgreSQL, MySQL, REST APIs, and scalable application design.
 
-## Redes Sociais
+## 🌐 Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lipe.sp.10/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005402199216)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-brito-09a355285/)
