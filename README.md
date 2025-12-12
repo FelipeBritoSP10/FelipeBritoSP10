@@ -1,5 +1,5 @@
 # Hello, I'm Felipe Brito!
-Front-End & Mobile Developer | Technical Lead | Project Manager | Product Owner | Instructor
+Front-End & Mobile Developer | Technical Lead | Project Manager | Product Owner | Programming Teacher
 
 ## About me
 I am a Front-End & Mobile Developer, Instructor, Technical Lead, Project Manager, and Product Owner, with solid experience delivering complex, scalable, and high-impact digital solutions for web and mobile. I also work on client projects, developing complete solutions from planning and architecture to implementation and deployment.
