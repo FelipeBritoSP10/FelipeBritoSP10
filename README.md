@@ -7,6 +7,57 @@ I am a Front-End & Mobile Developer, Instructor, Technical Lead, Project Manager
 With a strong results-oriented mindset, I focus on building high-impact digital products, leading teams, managing projects efficiently, and optimizing strategic processes that drive quality, performance, and sustainable value creation.
 
 ## 💻 Technical Expertise
+I have strong professional experience in designing scalable, maintainable, and high-performance applications for both web and mobile. My domain expertise includes:
+
+# Front-End & Mobile Engineering
+- Creation of component-driven interfaces and reusable UI architectures
+
+- Advanced responsive design, accessibility (A11y), and mobile-first development
+
+- Smooth UX for mobile apps: animations, gesture handling, navigation patterns
+
+- Building and maintaining design systems and UI component libraries
+
+# Software Architecture & Engineering Practices
+- Modular architecture, SOLID principles, separation of concerns
+
+- Clean Code, code quality, maintainability and long-term scalability
+
+- State management strategies (Context API, reducers, custom patterns)
+
+- Architectural planning for new apps and technical evolution of existing ones
+
+# API Integration & Data Flow
+- REST integration, data modeling, and robust error-handling structures
+
+- Authentication strategies: JWT, token flows, session models
+
+- Offline-first approaches, caching, and sync strategies
+
+# Testing, Performance & Optimization
+- Unit and component testing with Jest
+
+- Performance optimization, lazy loading, code splitting
+
+- Error monitoring and logging (Sentry, Crashlytics, etc.)
+
+# DevOps, Version Control & Delivery
+- GitFlow, repository strategy, branch management
+
+- CI/CD pipelines, automated builds, multi-environment deployment
+
+- Production-ready workflows for both web and mobile apps
+
+# Product Strategy, UX & MVP Development
+- MVP planning for web & mobile products
+
+- UX-driven decision-making
+
+- Translating business goals into technical solutions
+
+- Continuous iteration using feedback loops
+
+## Technologies
 React JS, React Native, TypeScript, JavaScript (ES6+), Tailwind CSS, SASS/SCSS, Bootstrap, Material UI, Chakra UI, React Native Paper, NativeBase, Zod, Yup, React Hook Form, GraphQL, Supabase, Firebase, Vite, Jest, Git, UI/UX, Mobile First, MVP, with strong knowledge of advanced architectural patterns.
 Additional experience: Node.js, Java, PostgreSQL, MySQL, REST APIs, and scalable application design.
 
