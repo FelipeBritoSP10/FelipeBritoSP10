@@ -116,6 +116,6 @@ decision-making
 
 - Leading internal initiatives, client solutions, and personal projects
 
-- I apply this expertise daily to ensure consistency, excellence, and continuous growth in every project I work on.
+I apply this expertise daily to ensure consistency, excellence, and continuous growth in every project I work on.
 
 Nice to meet you, Felipe Brito.
