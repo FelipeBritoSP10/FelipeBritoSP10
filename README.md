@@ -6,6 +6,15 @@ I am a Front-End & Mobile Developer, Instructor, Technical Lead, Project Manager
 
 With a strong results-oriented mindset, I focus on building high-impact digital products, leading teams, managing projects efficiently, and optimizing strategic processes that drive quality, performance, and sustainable value creation.
 
+I work at an advanced level within the JavaScript ecosystem, building web applications using React JS, TypeScript, and Node.js. In web development, I design component-based architectures, manage application state, and implement responsive and accessibility-first strategies, applying performance, scalability, and UX best practices to deliver robust and scalable web solutions.
+
+I also develop mobile applications using React Native, focusing on clean architecture, state management, mobile-first approaches, and high-performance user experiences. I ensure reliable integration with APIs and backend services, delivering stable and scalable mobile solutions aligned with product and business goals.
+
+I leverage modern UI libraries such as Material UI, Bootstrap, Chakra UI, shadcn/ui, Ant Design, Tailwind CSS, and other UI frameworks to deliver consistent, accessible, and scalable interfaces across both web and mobile platforms.
+
+I also have experience with Java, PostgreSQL, and data modeling, working with schema design, optimized queries, backend integration, and data management in scalable environments.
+In addition, I have solid experience in computer networks, working with client–server architectures, communication models, network protocols, physical and logical infrastructure, network components, topologies, addressing, data flow, and routing, ensuring efficient and reliable communication between web and mobile applications.
+
 ## 💻 Technical Expertise
 I have strong professional experience in designing scalable, maintainable, and high-performance applications for both web and mobile. My domain expertise includes:
 
