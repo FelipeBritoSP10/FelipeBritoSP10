@@ -6,7 +6,7 @@ I am a Front-End & Mobile Developer, Instructor, Technical Lead, Project Manager
 
 With a strong results-oriented mindset, I focus on building high-impact digital products, leading teams, managing projects efficiently, and optimizing strategic processes that drive quality, performance, and sustainable value creation.
 
-## Web Development
+💻 **Web Development**  
 I work at an advanced level within the JavaScript ecosystem, building web applications using React JS, TypeScript, and Node.js. In web development, I design component-based architectures, manage application state, and implement responsive and accessibility-first strategies, applying performance, scalability, and UX best practices to deliver robust and scalable web solutions.
 
 # Mobile Development
