@@ -9,7 +9,7 @@ With a strong results-oriented mindset, I focus on building high-impact digital 
 ## Web Development
 I work at an advanced level within the JavaScript ecosystem, building web applications using React JS, TypeScript, and Node.js. In web development, I design component-based architectures, manage application state, and implement responsive and accessibility-first strategies, applying performance, scalability, and UX best practices to deliver robust and scalable web solutions.
 
-## Mobile Development
+# Mobile Development
 I also develop mobile applications using React Native, focusing on clean architecture, state management, mobile-first approaches, and high-performance user experiences. I ensure reliable integration with APIs and backend services, delivering stable and scalable mobile solutions aligned with product and business goals.
 
 ## UI & Design Systems
