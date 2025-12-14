@@ -66,6 +66,19 @@ I have strong professional experience in designing scalable, maintainable, and h
 
 - Continuous iteration using feedback loops
 
+# 🌐 Computer Networking
+- Strong understanding of client–server architecture and communication models
+
+- Knowledge of network types (LAN, WAN, MAN) and common network topologies
+
+- Experience with network components such as routers, switches, servers, and access points
+
+- Knowledge of network protocols, including HTTP/HTTPS, TCP/IP, UDP, and DNS
+
+- Understanding of IP addressing, data flow, and routing concepts
+
+- Support for reliable communication between web and mobile applications
+
 ## 🛠️ Technologies
 React JS, React Native, TypeScript, JavaScript (ES6+), Tailwind CSS, SASS/SCSS, Bootstrap, Material UI, Chakra UI, React Native Paper, NativeBase, Zod, Yup, React Hook Form, GraphQL, Supabase, Firebase, Vite, Jest, Git, UI/UX, Mobile First, MVP, with strong knowledge of advanced architectural patterns.
 Additional experience: Node.js, Java, PostgreSQL, MySQL, REST APIs, and scalable application design.
