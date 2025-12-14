@@ -13,6 +13,7 @@ I also develop mobile applications using React Native, focusing on clean archite
 I leverage modern UI libraries such as Material UI, Bootstrap, Chakra UI, shadcn/ui, Ant Design, Tailwind CSS, and other UI frameworks to deliver consistent, accessible, and scalable interfaces across both web and mobile platforms.
 
 I also have experience with Java, PostgreSQL, and data modeling, working with schema design, optimized queries, backend integration, and data management in scalable environments.
+
 In addition, I have solid experience in computer networks, working with client–server architectures, communication models, network protocols, physical and logical infrastructure, network components, topologies, addressing, data flow, and routing, ensuring efficient and reliable communication between web and mobile applications.
 
 ## 💻 Technical Expertise
