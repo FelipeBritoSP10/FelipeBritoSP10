@@ -193,15 +193,19 @@ I bring strong experience in:
 
   <table>
     <tr>
-      <td align="center" width="800">
+      <td align="center" width="850">
         <br/>
         <font size="6"><b>FELIPE BRITO</b></font><br/>
-        <font size="3" color="#666">Technical Lead & Software Architect</font>
+        <br/>
+        <img src="https://img.shields.io/badge/Software_Developer-333333?style=flat-square" alt="Developer"> 
+        <img src="https://img.shields.io/badge/Programming_Teacher-333333?style=flat-square" alt="Teacher"> 
+        <img src="https://img.shields.io/badge/Project_Manager-333333?style=flat-square" alt="PM"> 
+        <img src="https://img.shields.io/badge/Technical_Lead-333333?style=flat-square" alt="Tech Lead">
         <br/><br/>
-        <a href="https://www.linkedin.com/in/felipe-brito-09a355285/" target="_blank">
+        <a href="https://www.linkedin.com/in/felipebritodev" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
-        <a href="https://www.instagram.com/lipe.sp.10/" target="_blank">
+        <a href="https://www.instagram.com/felipebritodev" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
         </a>
         <br/><br/>
@@ -214,4 +218,3 @@ I bring strong experience in:
 </div>
 
 ---
-
