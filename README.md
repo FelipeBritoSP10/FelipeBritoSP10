@@ -125,7 +125,7 @@ I have solid experience in:
 - Delivering end-to-end solutions for client projects
 
 ## 🏢 Professional Experience
-Currently part of Arthais Systems, contributing to high-complexity projects, leading critical implementations, performing strategic technical analyses, and ensuring deliveries with high levels of quality, reliability, and business impact.
+Currently part of **Arthais Systems**, contributing to high-complexity projects, leading critical implementations, performing strategic technical analyses, and ensuring deliveries with high levels of quality, reliability, and business impact.
 
 ## 🎓 Instructor & Mentor
 As a Web & Mobile Development Instructor, I prepare professionals to build real, scalable applications aligned with current industry standards, focusing on best practices, architecture, and user experience.
