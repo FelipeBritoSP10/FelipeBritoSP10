@@ -124,7 +124,7 @@ Additional experience: Node.js, Java, PostgreSQL, MySQL, REST APIs, and scalable
 
 <img align="left" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-<img align="left" alt="Postgres" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="left" alt="Postgres" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"><br>
 
 <img align="left" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
@@ -142,6 +142,7 @@ Additional experience: Node.js, Java, PostgreSQL, MySQL, REST APIs, and scalable
 
 </div>
 
+<br>
 <br>
 <br>
 
