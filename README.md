@@ -2,7 +2,7 @@
 Front-End & Mobile Developer | Technical Lead | Project Manager | Product Owner | Programming Teacher
 
 ## About me 👨‍💻
-I am a Front-End & Mobile Developer, Instructor, Technical Lead, Project Manager, and Product Owner, with solid experience delivering complex, scalable, and high-impact digital solutions for web and mobile. I also work on client projects, developing complete solutions from planning and architecture to implementation and deployment.
+I am the Founder & Leader of CraftSix, as well as a Front-End & Mobile Developer, Instructor, Technical Lead, Project Manager, and Product Owner, with solid experience delivering complex, scalable, and high-impact digital solutions for web and mobile. I also work on client projects, developing complete solutions from planning and architecture to implementation and deployment.
 
 With a strong results-oriented mindset, I focus on building high-impact digital products, leading teams, managing projects efficiently, and optimizing strategic processes that drive quality, performance, and sustainable value creation.
 
