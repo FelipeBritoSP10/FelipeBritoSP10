@@ -198,10 +198,10 @@ I bring strong experience in:
         <font size="6"><b>FELIPE BRITO</b></font><br/>
         <font size="3" color="#666">Technical Lead & Software Architect</font>
         <br/><br/>
-        <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+        <a href="https://www.linkedin.com/in/felipe-brito-09a355285/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
-        <a href="https://www.instagram.com/SEU-INSTAGRAM" target="_blank">
+        <a href="https://www.instagram.com/lipe.sp.10/" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
         </a>
         <br/><br/>
