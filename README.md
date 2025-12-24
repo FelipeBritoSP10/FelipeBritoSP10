@@ -139,8 +139,12 @@ Additional experience: Node.js, Java, PostgreSQL, MySQL, REST APIs, and scalable
 <img align="left" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
 <img align="left" alt="Jest" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+<br>
+<br>
 
 <img align="left" alt="Redux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+
+
   
 <img align="left" alt="Figma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
