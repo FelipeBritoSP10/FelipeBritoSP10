@@ -149,6 +149,9 @@ Additional experience: Node.js, Java, PostgreSQL, MySQL, REST APIs, and scalable
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 ## Professional Expertise 🧠
 I have solid experience in:
