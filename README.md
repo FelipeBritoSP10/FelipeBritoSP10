@@ -1,5 +1,9 @@
 # Hello, I'm Felipe Brito!👋
-Front-End & Mobile Developer | Technical Lead | Project Manager | Product Owner | Programming Teacher
+![Front-End](https://img.shields.io/badge/Front--End_Developer-333333?style=for-the-badge&logo=javascript)
+![Mobile](https://img.shields.io/badge/Mobile_Developer-333333?style=for-the-badge&logo=react)
+![Tech Lead](https://img.shields.io/badge/Technical_Lead-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PM/PO](https://img.shields.io/badge/Project_Manager_%7C_PO-FCA311?style=for-the-badge&logo=target&logoColor=black)
+![Teacher](https://img.shields.io/badge/Programming_Teacher-FF007F?style=for-the-badge&logo=strapi&logoColor=white)
 
 ## About me 👨‍💻
 I am the Founder & Leader of **CraftSix**, as well as a Front-End & Mobile Developer, Instructor, Technical Lead, Project Manager, and Product Owner, with solid experience delivering complex, scalable, and high-impact digital solutions for web and mobile. I also work on client projects, developing complete solutions from planning and architecture to implementation and deployment.
@@ -146,7 +150,7 @@ Additional experience: Node.js, Java, PostgreSQL, MySQL, REST APIs, and scalable
 <br>
 <br>
 
-## 🧠 Professional Expertise
+## Professional Expertise 🧠
 I have solid experience in:
 
 - Designing, developing, and maintaining large-scale and complex applications
