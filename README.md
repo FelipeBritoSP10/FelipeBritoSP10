@@ -6,9 +6,9 @@
 ![Teacher](https://img.shields.io/badge/Programming_Teacher-FF007F?style=for-the-badge&logo=strapi&logoColor=white)
 
 # About me 👨‍💻
-I am the Founder & Leader of **CraftSix**, as well as a Front-End & Mobile Developer, Instructor, Technical Lead, Project Manager, and Product Owner, with solid experience delivering complex, scalable, and high-impact digital solutions for web and mobile. I also work on client projects, developing complete solutions from planning and architecture to implementation and deployment.
+I am a Front-End & Mobile Developer, Instructor, Project Manager, and Product Owner with solid experience delivering complex, scalable, and high-impact digital solutions for web and mobile. I work on client projects developing complete solutions, from planning and architecture to implementation and deployment.
 
-With a strong results-oriented mindset, I focus on building high-impact digital products, leading teams, managing projects efficiently, and optimizing strategic processes that drive quality, performance, and sustainable value creation.
+With a strong results-oriented mindset, my focus is on building high-performance digital products, managing projects efficiently, and optimizing strategic processes that drive quality, performance, and sustainable value creation.
 
 ## 💻 **Web Development**  
 I work at an advanced level within the JavaScript ecosystem, building web applications using React JS, TypeScript, and Node.js. In web development, I design component-based architectures, manage application state, and implement responsive and accessibility-first strategies, applying performance, scalability, and UX best practices to deliver robust and scalable web solutions.
