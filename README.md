@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe Brito! 👋
 
-### **`FullStack Developer`** | **`Software Engineer`** | **`Full Stack Instructor`** ⚡
+### **`FullStack Developer`** | **`Software Engineer`** | **`Systems Architect`** | **`Full Stack Instructor`** ⚡
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-brito-09a355285/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](https://dev-portfolio-felipe-brito.vercel.app/)
