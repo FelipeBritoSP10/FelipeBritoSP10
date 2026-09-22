@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe Brito! 👋
 
-### **`FullStack Developer`** | **`Software Engineer`** | **`Systems Architect`** | **`Full Stack Instructor`** ⚡
+### **`FullStack Developer`** | **`Software Engineer`** | **`Systems Architect`** | **`Full Stack Instructor`** | **`Professor de Tecnologia da Informação`** ⚡
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-brito-09a355285/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](https://dev-portfolio-felipe-brito.vercel.app/)
@@ -8,7 +8,7 @@
 
 ---
 
-**`Desenvolvedor Full Stack`**, **`Engenheiro de Software`** e **`Full Stack Instructor`** focado na criação de ecossistemas Web & Mobile de alta performance, modelagem de **Bancos de Dados** e experiências intuitivas (**UI/UX**). Especialista em **Arquitetura de Sistemas, Clean Code e SOLID**, unindo desenvolvimento ponta a ponta, governança de código e formação técnica de desenvolvedores.
+**`Desenvolvedor Full Stack`**, **`Engenheiro de Software`**, **`Professor de Tecnologia da Informação`** e **`Full Stack Instructor`** focado na criação de ecossistemas Web & Mobile de alta performance, modelagem de **Bancos de Dados** e experiências intuitivas (**UI/UX**). Especialista em **Arquitetura de Sistemas, Clean Code e SOLID**, unindo desenvolvimento ponta a ponta, governança de código e formação técnica de desenvolvedores.
 
 ---
 
