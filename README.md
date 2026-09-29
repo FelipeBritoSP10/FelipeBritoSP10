@@ -8,7 +8,7 @@
 
 ---
 
-**`Desenvolvedor Full Stack`**, **`Engenheiro de Software`**, **`Professor de Tecnologia da Informação`** e **`Full Stack Instructor`** focado na criação de ecossistemas Web & Mobile de alta performance, modelagem de **Bancos de Dados** e experiências intuitivas (**UI/UX**). Especialista em **Arquitetura de Sistemas, Clean Code e SOLID**, unindo desenvolvimento ponta a ponta, governança de código e formação técnica de desenvolvedores, além de atuar como **`Mentor EAD`** ministrando aulas de desenvolvimento de software ao vivo.
+**`Desenvolvedor Full Stack`**, **`Engenheiro de Software`**, **`Professor de Tecnologia da Informação`** e **`Full Stack Instructor`** focado na criação de ecossistemas Web & Mobile de alta performance, modelagem de **Bancos de Dados** e experiências intuitivas (**UI/UX**). Especialista em **Arquitetura de Sistemas, Clean Code e SOLID**, unindo desenvolvimento ponta a ponta, governança de código e formação técnica de desenvolvedores.
 
 ---
 
